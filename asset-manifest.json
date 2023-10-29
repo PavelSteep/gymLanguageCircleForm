@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gymLanguageCircle/static/css/main.15486739.css",
-    "main.js": "/gymLanguageCircle/static/js/main.222e4646.js",
-    "static/media/banner.jpg": "/gymLanguageCircle/static/media/banner.8cbb8b7f729beeb5e589.jpg",
-    "static/media/offer.jpg": "/gymLanguageCircle/static/media/offer.6079fcaa3ef638173258.jpg",
-    "static/media/about.png": "/gymLanguageCircle/static/media/about.481ac09ac15c4de1733c.png",
-    "static/media/feature2.svg": "/gymLanguageCircle/static/media/feature2.b161f707baab1ecb15159d46b8ed827e.svg",
-    "static/media/feature4.svg": "/gymLanguageCircle/static/media/feature4.7d9b3774619610d9787631f08e47f4e9.svg",
-    "static/media/feature3.svg": "/gymLanguageCircle/static/media/feature3.4d4f8b76420e5531bc907ddd1f82b144.svg",
-    "static/media/feature1.svg": "/gymLanguageCircle/static/media/feature1.59406c9ce9fe6dc9d7b4881702245ac4.svg",
-    "index.html": "/gymLanguageCircle/index.html",
-    "main.15486739.css.map": "/gymLanguageCircle/static/css/main.15486739.css.map",
-    "main.222e4646.js.map": "/gymLanguageCircle/static/js/main.222e4646.js.map"
+    "main.css": "/gymLanguageCircleForm/static/css/main.68dd6479.css",
+    "main.js": "/gymLanguageCircleForm/static/js/main.b33b6e11.js",
+    "static/media/banner.jpg": "/gymLanguageCircleForm/static/media/banner.8cbb8b7f729beeb5e589.jpg",
+    "static/media/offer.jpg": "/gymLanguageCircleForm/static/media/offer.6079fcaa3ef638173258.jpg",
+    "static/media/about.png": "/gymLanguageCircleForm/static/media/about.481ac09ac15c4de1733c.png",
+    "static/media/feature2.svg": "/gymLanguageCircleForm/static/media/feature2.b161f707baab1ecb15159d46b8ed827e.svg",
+    "static/media/feature4.svg": "/gymLanguageCircleForm/static/media/feature4.7d9b3774619610d9787631f08e47f4e9.svg",
+    "static/media/feature3.svg": "/gymLanguageCircleForm/static/media/feature3.4d4f8b76420e5531bc907ddd1f82b144.svg",
+    "static/media/feature1.svg": "/gymLanguageCircleForm/static/media/feature1.59406c9ce9fe6dc9d7b4881702245ac4.svg",
+    "index.html": "/gymLanguageCircleForm/index.html",
+    "main.68dd6479.css.map": "/gymLanguageCircleForm/static/css/main.68dd6479.css.map",
+    "main.b33b6e11.js.map": "/gymLanguageCircleForm/static/js/main.b33b6e11.js.map"
   },
   "entrypoints": [
-    "static/css/main.15486739.css",
-    "static/js/main.222e4646.js"
+    "static/css/main.68dd6479.css",
+    "static/js/main.b33b6e11.js"
   ]
 }
